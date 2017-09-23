@@ -1,0 +1,50 @@
+h1 {
+	color: white;
+	background: #D2691E;
+	padding: 20px;
+	width: 25%;
+}
+
+#instructions {
+	background: #FFEBCD;
+	color: green;
+	width: 30%;
+	height: 300px;
+	padding: 10px;
+	font-size: 14px
+}
+
+#random-score {
+	background: #3CB371;
+	color: purple;
+	height: 100px;
+	width: 20%;
+	float: left;
+	margin: 10px 10px 10px 0px;
+}
+
+#score {
+	background: #00FFFF;
+	float: left;
+	margin: 10px 0px 10px 0px;
+
+}
+
+#crystals {
+	clear: left;
+
+}
+
+#user-score {
+	background: #20B2AA;
+	color: white;
+	width: 18.5%;
+	padding: 10px;
+}
+
+#total {
+	background: #20B2AA;
+	color: white;
+	width: 20%;
+	height: 100px;
+}
