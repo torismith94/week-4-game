@@ -43,19 +43,19 @@ document.getElementById("total").innerHTML = randomCrystalScore();
 
 $("#red").on("click", function() {
     randomCrystalScore();
-    
+
 });
 
 $("#blue").on("click", function() {
-    alert("play?");
+    randomCrystalScore();
 });
 
 $("#yellow").on("click", function() {
-    alert("play?");
+    randomCrystalScore();
 });
 
-$("green").on("click", function() {
-    alert("play?");
+$("#green").on("click", function() {
+    randomCrystalScore();
 });
 
 	if (crystalScore === randomScore) {
